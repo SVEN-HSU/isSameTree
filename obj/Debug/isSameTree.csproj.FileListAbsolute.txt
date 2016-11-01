@@ -1,0 +1,6 @@
+D:\C&C++ samples\isSameTree\isSameTree\bin\Debug\isSameTree.exe.config
+D:\C&C++ samples\isSameTree\isSameTree\bin\Debug\isSameTree.exe
+D:\C&C++ samples\isSameTree\isSameTree\bin\Debug\isSameTree.pdb
+D:\C&C++ samples\isSameTree\isSameTree\obj\Debug\isSameTree.csprojResolveAssemblyReference.cache
+D:\C&C++ samples\isSameTree\isSameTree\obj\Debug\isSameTree.exe
+D:\C&C++ samples\isSameTree\isSameTree\obj\Debug\isSameTree.pdb
